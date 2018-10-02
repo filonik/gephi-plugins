@@ -1,6 +1,6 @@
 ## glTF Importer
 
-Allows importing graphs from the glTF format. This facilitates the exchange of large graphs in a compact and portable binary representation.
+Allows importing graphs from the glTF format. This enables the exchange of large graphs in a compact and portable binary representation.
 
 ### Dependencies
 
