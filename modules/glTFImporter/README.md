@@ -2,7 +2,7 @@
 
 Allows importing graphs from the glTF format. This facilitates the exchange of large graphs in a compact and portable binary representation.
 
-# Dependencies
+### Dependencies
 
 This plugin depends on [jgltf-browser](https://github.com/javagl/JglTF). 
 
