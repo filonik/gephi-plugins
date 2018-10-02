@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 OpenIDE-Module-Name: glTF Importer
 OpenIDE-Module-Short-Description: Importer for glTF files.
-OpenIDE-Module-Long-Description: Allows importing graphs from the glTF format. This facilitates the exchange of large graphs in a compact and portable binary representation.
+OpenIDE-Module-Long-Description: Allows importing graphs from the glTF format. This enables the exchange of large graphs in a compact and portable binary representation.
 OpenIDE-Module-Display-Category: Import
